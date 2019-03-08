@@ -1,1 +1,1 @@
-fuction happyHolidays(string){ return
+fuction happyHolidays(string){ return "Happy holidays!" }
