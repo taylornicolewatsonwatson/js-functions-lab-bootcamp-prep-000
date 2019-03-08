@@ -1,1 +1,1 @@
-fuction happyHolidays 
+fuction happyHolidays(string) 
